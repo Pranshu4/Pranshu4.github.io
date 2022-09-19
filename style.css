@@ -58,7 +58,9 @@ section {
     align-items: center;
     justify-content: space-between;
 }
-
+.calendar{
+    width: 80%;
+}
 section .title {
     position: relative;
     text-align: center;
@@ -492,7 +494,10 @@ section .title::after {
 .contact .contact-content .left p {
     /* text-align: center; */
 }
-
+.contact .contact-content a{
+    font-size: 30px;
+    color: crimson;
+}
 .contact .contact-content .left .icons {
     /* border: 1px solid red; */
     margin: 10px 0;
@@ -726,7 +731,9 @@ footer span a:hover {
     .max-width {
         padding: 0 23px;
     }
-
+    .calendar{
+        width: 80%;
+    }
     .home .home-content .text-2 {
         font-size: 60px;
     }
@@ -748,7 +755,9 @@ footer span a:hover {
     .home .home-content .text-2 {
         font-size: 50px;
     }
-
+    .calendar{
+        width: 80%;
+    }
     .home .home-content .text-3 {
         font-size: 27px;
     }
@@ -785,7 +794,9 @@ footer span a:hover {
     .home .home-content .text-2 {
         font-size: 50px;
     }
-
+    .calendar{
+        width: 80%;
+    }
     .home .home-content .text-3 {
         font-size: 27px;
     }
@@ -826,6 +837,9 @@ footer span a:hover {
         margin-top: 40px;
         gap: 20px;
        
+    }
+    .calendar{
+        width: 80%;
     }
     .Skillimage{
         /* box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; */
