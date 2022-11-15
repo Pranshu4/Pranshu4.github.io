@@ -313,6 +313,10 @@ section .title::after {
     color: blue;
 }
 
+/* #buttonlive{
+    color: white;
+} */
+
 #projectp {
     /* border: 2px solid red; */
     font-family: 'Poppins', sans-serif;
